@@ -1,3 +1,7 @@
+# DS LAB Manual
+1. [DS LAB MANUAL](./DS-manual.pdf)
+2. [Towers of hanoi Recursion Solution](./Towers%20of%20Hanoi.pdf)
+
 # OS Lab Programs
 
 1. [Develop a c program to implement the Process system calls (fork (), exec(), wait(),create process, terminate process)](./1.c)
