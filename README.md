@@ -1,4 +1,8 @@
-# Git Lab
+# Lab Programs
+
+These are almost all the programs we practiced in 3 subjects during the 3rd semester of B.E Computer Science and Business Systems.
+
+## Git Lab
 1. [Lab 1 - Setup and Basic Commands (ALWAYS RUN THESE FIRST)](./git/l1.md)
 2. [Lab 2 - Creating and Managing Branches](./git/l2.md)
 3. [Lab 3 - Shash Changes](./git/l3.md)
@@ -12,11 +16,11 @@
 11. [Lab 11 - Display last 5 commits in repository](./git/l11.md)
 12. [Lab 12 - Revert changes by a commit](./git/l12.md)
 
-# DS LAB Manual
+## DS LAB Manual
 1. [DS LAB MANUAL](./DS-manual.pdf)
 2. [Towers of hanoi Recursion Solution](./Towers%20of%20Hanoi.pdf)
 
-# OS Lab Programs
+## OS Lab Programs
 
 1. [Develop a c program to implement the Process system calls (fork (), exec(), wait(),create process, terminate process)](./1.c)
 
